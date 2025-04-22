@@ -22,10 +22,14 @@ Domestic flights in Australia are generally much cheaper than the United States.
 
 ## 🍽 Food
 
+If there's any cuisine that Australia does well, it's definitely breakfast.
+
+Compared to the United States, Australian fast food is quite good! I was not disappointed by any fast food meal I had.
+
 - **Must Try Dishes**:
-  - Vegemite toast (at least once!)
+  - Vegemite toast
   - Lamingtons (dessert sponge cake)
-  - Tim Tams (legendary chocolate biscuits)
+  - Tim Tams (and any Arnott's biscuits)
   - Fish & chips on the beach
 
 ## Drink
@@ -35,13 +39,11 @@ Domestic flights in Australia are generally much cheaper than the United States.
 - pubs called hotels and why
 - pokies
 - alcohol laws
-- 
 
 ## Shopping
 
 - Kmart
-- Woolworths, Cole's, Big W,
-
+- Woolworths, Cole's, Big W
 
 ## Coffee
 
@@ -53,13 +55,53 @@ For a more comprehensive treatment of Australian coffee and recommendations for 
 
 ## Sydney
 
-It's alternately both an Australian San Francisco but also a better London.
+It's alternately both an Australian San Francisco but also a better London. It's a world-class city for a reason.
+
+### Getting around
+
+For Sydney proper, public transit is excellent. The system is called Opal. You can get a physical card or use tap to pay on your phone.
+
+### Food 
+
+### Sydney Proper
+
+ - Opera House
+ - Botanic Garden
+ - Harbour Bridge
+ - Ferry from Circular Quay to Manly
+ - Bondi Beach
+ - The Rocks
+ - Potts Point
+ - Bondi - Coogee Walk
+ - Olympic Park
+ - Chinese Friendship Garden
+ - State Library NSW
+ - Queen Victoria Building
+ - Haymarket
+
+### Off the beaten path
+
+ - Malibu Sandwiches
+ - Statue of the Duke
 
 ### Taronga Zoo
 
 ### Blue Mountains / Katoomba
 
+ - Three Sisters
+ - Mountain Culture Brewery
+ - Scenic World
+
+### Other assorted things
+
+ - Featherdale
+ - Cockatoo Island
+
 ## Melbourne
+
+### Off the beaten path
+
+ - Healesville
 
 ## FNQ (Cairns, Daintree, Port Douglas, Great Barrier Reef)
 
