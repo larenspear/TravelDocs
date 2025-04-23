@@ -22,7 +22,7 @@ Domestic flights in Australia are generally much cheaper than the United States.
 
 ## 🍽 Food
 
-If there's any cuisine that Australia does well, it's definitely breakfast.
+If there's any cuisine that Australia does well, it's definitely breakfast. The Australian breakfast cafe is a cultural export that's become quite popular in many places around the world.
 
 Compared to the United States, Australian fast food is quite good! I was not disappointed by any fast food meal I had.
 
@@ -30,13 +30,33 @@ Compared to the United States, Australian fast food is quite good! I was not dis
   - Vegemite toast
   - Lamingtons (dessert sponge cake)
   - Tim Tams (and any Arnott's biscuits)
-  - Fish & chips on the beach
+  - Fish & chips
+
+If you're the kind of person who's interested in trying unusual meats, make sure to try some crocodile and kangaroo. Crocodile tastes like chicken; kangaroo is more like steak or venison.
+
+Most of Australia lives by the coast. The seafood is fresh. Fish and chips is always good, but other kinds of seafood are also widely available and quite good.
 
 ## Drink
 
-- drink sizes at pubs
+Australian pub culture is generally similar to UK pub culture.
+
+The sizes of beer are different to the UK or US, and also differ between states in Australia. 
+
+Pint - 570mL
+Schooner - 425mL
+Middy/Pot/Half Pint - 285mL. In NSW it's a Middy, in VIC and QLD it's a pot.
+
+South Australia has a different scheme:
+
+Imperial Pint - 570mL
+Pint - 425mL (Schooner elsewhere)
+Schooner - 285mL (Middy/Pot elsewhere)
+
+When in doubt, order a schooner. If the pub only does pints and half pints, they'll tell you. If you're in South Australia... sorry.
+
+Most pubs are called hotels. This is because until the 1980s, venues that served alcohol were required to offer accomodation. Some still do! However, most are just pubs. 
+
 - beers to look out for
-- pubs called hotels and why
 - pokies
 - alcohol laws
 
@@ -44,6 +64,17 @@ Compared to the United States, Australian fast food is quite good! I was not dis
 
 - Kmart
 - Woolworths, Cole's, Big W
+
+## Souvenirs / Things to buy 
+
+ - Aboriginal print goods
+ - Kangaroo leather
+ - Honey
+ - Tea
+ - Eucalyptus products
+ - Macadamia Nuts
+ - Wine
+ - Kangaroo scrotum bottle opener
 
 ## Coffee
 
@@ -129,7 +160,6 @@ Kuranda
 
 Port Douglas is a sleepy resort town. Most things close at 9. But you get much more convenient access to Daintree, the reef, and some really excellent beaches. If you plan on doing full-day trips to those things, you'll probably want to stay here.
 
-
 # Specialty Coffee Shops by City
 
 ## Sydney
@@ -152,8 +182,11 @@ Port Douglas is a sleepy resort town. Most things close at 9. But you get much m
 - Primary
 - Coffee Alchemy
 
-## Melb
+## Melbourne
 
 - Proud Mary
 - Little Sparrow
+
+## Cairns
+
 
